@@ -6,4 +6,4 @@ Agenda day 23 (design)
 * [Slides](Kanban-dat18v2.pdf)
 
 ## Exercise
-* [Øvelse: Jeres teams Kanban](https://docs.google.com/document/d/e/2PACX-1vQsf00S4exiawwcftS14fFO63XIc1__h7SbmogAbcctluDa118hgNOm9255nC8qbPoDsYxaVCn6TE--/pub)
+* [Øvelse: Jeres teams Kanban](23_exercise_your_teams_kanban)
